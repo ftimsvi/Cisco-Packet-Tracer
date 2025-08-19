@@ -2,6 +2,10 @@
 
 This project demonstrates a **complex network topology** designed in Cisco Packet Tracer, showcasing routers, switches, servers, PCs, and wireless devices configured to emulate a realistic enterprise environment.
 
+## Network Topology 
+
+![Network Topology](topology.png)
+
 ## ✨ Features
 
 - **Routing Protocols**: RIP, OSPF, EIGRP
